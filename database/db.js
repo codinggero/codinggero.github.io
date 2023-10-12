@@ -57,7 +57,7 @@ var db = {
       company: "Fiverr | Upwork | Freelancer",
       location: "Remote",
       description:
-        "I am full-stack app developer on Fiverr, Upwork, and other freelancer sites.",
+        "I am a full-stack app developer on Fiverr, Upwork, and other freelancer sites.",
       from: "2023",
       to: "Present",
     },
@@ -204,7 +204,7 @@ var db = {
       title: "Api",
       poster: "assets/img/service.jpg",
       short_description:
-        "Develop Rest Api using Nodejs and Laravel framework's and deploy to Cloud and Hosting Sites.",
+        "Develop Rest Api using Nodejs and Laravel frameworks and deploy to Cloud and Hosting Sites.",
       description: `<p>Elisc is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
               <p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
               <p>That’s why more companies are not only reevaluating their website’s design but also partnering with Elisc, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>`,
@@ -238,7 +238,7 @@ var db = {
   ],
   projects: [
     {
-      title: "Ecomerce App",
+      title: "E-commerce App",
       category: "Flutter",
       poster: "poster.png",
       client: "Sumaira Zaheer",
@@ -296,7 +296,7 @@ var db = {
       status: "complete",
     },
     {
-      title: "Ecomerce App",
+      title: "E-commerce App",
       category: "Flutter",
       poster: "poster.png",
       client: "Sumaira Zaheer",
@@ -325,7 +325,7 @@ var db = {
       status: "complete",
     },
     {
-      title: "Ecomerce App",
+      title: "E-commerce App",
       category: "Flutter",
       poster: "poster.png",
       client: "Sumaira Zaheer",
