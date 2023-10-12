@@ -1,5 +1,5 @@
 var db = {
-  firstname: "Shaukat",
+  firstname: "Junaid",
   lastname: "Shaukat",
   copyright: new Date().getFullYear(),
   country: "Pakistan",
