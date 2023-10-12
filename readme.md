@@ -14,3 +14,13 @@ git commit -m "Initial commit"
 git push -u origin main
 
 git clone https://codinggero.github.io
+
+#
+
+git add .
+
+git status # to see the changes to be committed
+
+git commit -m "comments"
+
+git push origin main
